@@ -112,7 +112,7 @@ img{
     width: 400px;
 }
 .loop_item img {
-    width: 100%;
+    width: 90%;
 }
 @keyframes loop-list {
     from {
